@@ -1,6 +1,7 @@
 ---
 title: "Case4"
 date: 2018-02-05T22:34:52+01:00
+caseimage: ../images/12.png
 
 ---
 
