@@ -1,3 +1,55 @@
-baseURL = "http://example.org/"
+baseurl = "http://example.com/"
+theme = "hugo-geo"
+relativeURLs = false
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Min Cv"
+
+
+[params]
+	showglobe = true
+
+	favicon = "favicon.ico"
+	
+	analytics = "code-here"
+
+	email = "mariaines@outlook.dk"
+
+	profilepic = "img/me.jpg"
+	
+	title = "Maria Ines"
+	subtitle = "min CV"
+
+	#linkedin	
+	[[params.socialbuttons]]
+	faicon = "linkedin"
+	url = "https://linkedin.com"
+	
+#Menu
+	[[menu.main]]
+	name = "Home"
+    weight = -201
+    identifier = "home"
+    url = " / "
+    
+	[[menu.main]]
+	name = "blog"
+    weight = -101
+    identifier = "blog"
+    url = "/blog/"
+    
+    [[menu.main]]
+	name = "portfolio"
+    weight = -101
+    identifier = "portfolio"
+    url = "/portfolio/"
+	
+	[[params.navlinks]]
+	name = "Om"
+	url = "om"
+    
+    [[params.navlinks]]
+	name = "Kontakt"
+	url = "kontakt"
+	
+	
+
