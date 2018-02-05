@@ -1,0 +1,23 @@
+{{ partial "head.html" . }}
+{{ partial "nav.html" . }}
+
+<main>
+	<header>
+		<h1>{{ .Title }}</h1>
+        <div class="caseimage"> <img src="{{ .Params.caseimage }}"></div>
+	</header>
+
+	<article>
+		{{ .Content }}
+	</article>
+</main>
+
+
+
+{{ if .Site.DisqusShortname }}
+  {{ template "_internal/disqus.html" . }}
+{{ end }}
+
+{{ partial "footer.html" . }}
+
+

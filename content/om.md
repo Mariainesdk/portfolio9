@@ -13,5 +13,5 @@ og webdesignere bruger Lorem Ipsum som fyldtekst. En søgning på Lorem Ipsum af
 
 ### tre
 
-![me](img/me.jpg)
+![me](../me.jpg)
 

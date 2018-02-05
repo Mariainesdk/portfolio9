@@ -50,6 +50,10 @@ title = "Min Cv"
     [[params.navlinks]]
 	name = "Kontakt"
 	url = "kontakt"
+    
+    [[params.navlinks]]
+	name = "Portfolio"
+	url = "portfolio"
 	
 	
 

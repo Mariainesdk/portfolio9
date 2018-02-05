@@ -11,4 +11,25 @@ Det er en kendsgerning, at man bliver distraheret af læsbart indhold på en sid
 ## to
 og webdesignere bruger Lorem Ipsum som fyldtekst. En søgning på Lorem Ipsum afslører mange websider, som stadig er på udviklingsstadiet. Der har været et utal af variationer, som er opstået enten på grund af fejl og andre gange med vilje (som blandt andet et resultat af humor).
 
+----------
+
+
+----------
+
+
+## Send mig en besked!
+
+
+<form method="POST" action="https://formspree.io/mariainesdk@outlook.dk">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
+</form>
+
+----------
+
+
+----------
+
+
 
