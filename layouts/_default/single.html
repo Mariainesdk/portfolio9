@@ -1,6 +1,13 @@
 {{ partial "head.html" . }}
 {{ partial "nav.html" . }}
 
+
+{{ range .Pages }}
+	{{.Title}} 
+{{.Content}} 
+{{ end }}
+
+
 <main>
 	<header>
 		<h1>{{ .Title }}</h1>

@@ -19,10 +19,7 @@ title = "Min Cv"
 	title = "Maria Ines"
 	subtitle = "min CV"
 
-	#linkedin	
-	[[params.socialbuttons]]
-	faicon = "linkedin"
-	url = "https://linkedin.com"
+	
 	
 #Menu
 	
