@@ -1,4 +1,4 @@
-baseurl = "http://mi-designstudio.com/"
+baseurl = "/"
 theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
@@ -25,23 +25,7 @@ title = "Min Cv"
 	url = "https://linkedin.com"
 	
 #Menu
-	[[menu.main]]
-	name = "Home"
-    weight = -201
-    identifier = "home"
-    url = " / "
-    
-	[[menu.main]]
-	name = "blog"
-    weight = -101
-    identifier = "blog"
-    url = "/blog/"
-    
-    [[menu.main]]
-	name = "portfolio"
-    weight = -101
-    identifier = "portfolio"
-    url = "/portfolio/"
+	
 	
 	[[params.navlinks]]
 	name = "Om"
