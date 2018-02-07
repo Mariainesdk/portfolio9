@@ -1,4 +1,4 @@
-baseurl = "mariaines.dk/portfolio9"
+baseurl = "https://mariainesdk.github.io/portfolio9/"
 theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
