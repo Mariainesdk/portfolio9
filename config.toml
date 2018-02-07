@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "mariaines.dk/portfolio9"
 theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
@@ -25,16 +25,36 @@ title = "Min Cv"
 	
 	
 	[[params.navlinks]]
-	name = "Om"
+	name = "forside"
+    weight = 0
+    identifier = "forside"
+	url = "_index"
+    
+    [[params.navlinks]]
+	name = "om"
+    weight = 1
+    identifier = "om"
 	url = "om"
-    
-    [[params.navlinks]]
-	name = "Kontakt"
+	
+	[[params.navlinks]]
+	name = "kontakt"
+    weight = 2
+    identifier = "kontakt"
 	url = "kontakt"
+	
+	    
+    [[params.navlinks]]
+	name = "blog"
+    weight = 3
+    identifier = "blog"
+	url = "blog/"
     
     [[params.navlinks]]
-	name = "Portfolio"
-	url = "portfolio"
+	name = "portfolio"
+    weight = 4
+    identifier = "portfolio"
+	url = "portfolio/"
+
 	
 	
 
