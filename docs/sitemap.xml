@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.com/portfolio/case4/</loc>
+    <lastmod>2018-02-05T22:34:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/portfolio/case3/</loc>
+    <lastmod>2018-02-05T22:34:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/portfolio/case2/</loc>
+    <lastmod>2018-02-05T22:34:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/portfolio/case1/</loc>
+    <lastmod>2018-02-05T22:33:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/portfolio/</loc>
+    <lastmod>2018-02-05T22:33:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/post2/</loc>
+    <lastmod>2018-02-05T22:32:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/post1/</loc>
+    <lastmod>2018-02-05T22:32:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/</loc>
+    <lastmod>2018-02-05T21:53:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/kontakt/</loc>
+    <lastmod>2018-02-05T21:17:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/om/</loc>
+    <lastmod>2018-02-05T21:16:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2018-02-05T22:34:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
